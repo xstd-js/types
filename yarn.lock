@@ -446,9 +446,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@xstd/utils@workspace:.":
+"@xstd/types@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@xstd/utils@workspace:."
+  resolution: "@xstd/types@workspace:."
   dependencies:
     prettier: "npm:^3.4.2"
     prettier-plugin-organize-imports: "npm:^4.1.0"

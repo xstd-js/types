@@ -1,5 +1,5 @@
 {
-  "name": "@xstd/utils",
+  "name": "@xstd/types",
   "version": "0.0.1",
   "type": "module",
   "main": "./index.js",
@@ -12,14 +12,14 @@
     "fb:dev": "node fabrique/actions/cli/build-and-publish.cli.js --mode dev",
     "fb:rc": "node fabrique/actions/cli/build-and-publish.cli.js --mode rc"
   },
-  "description": "Various utilities",
+  "description": "Type helpers in typescript",
   "keywords": [],
-  "author": "Valentin RIchard",
+  "author": "Valentin Richard",
   "license": "MIT",
   "access": "public",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xstd-js/utils"
+    "url": "https://github.com/xstd-js/types"
   },
   "devDependencies": {
     "prettier": "^3.4.2",
